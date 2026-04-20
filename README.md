@@ -87,11 +87,13 @@ ws2_32.lib
 
 ## Recommended Project Structure
 
+```cpp
 LPMS-IG1W_UDP_Middleware/
 │── main.cpp
 │── LPMS-IG1W_UDP_Middleware.sln
 │── .gitignore
 │── README.md
+```
 
 ---
 
