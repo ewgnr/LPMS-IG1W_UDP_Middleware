@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\ephra\Documents\Outside_IMU\LPMS-IG1W_UDP_Middleware\LPMS-IG1W_UDP_Middleware\main.cpp(208,30): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+C:\Users\ephra\Documents\Outside_IMU\LPMS-IG1W_UDP_Middleware\LPMS-IG1W_UDP_Middleware\main.cpp(218,30): warning C4566: character represented by universal-character-name '\u2192' cannot be represented in the current code page (1252)
+C:\Users\ephra\Documents\Outside_IMU\LPMS-IG1W_UDP_Middleware\LPMS-IG1W_UDP_Middleware\main.cpp(236,26): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\Users\ephra\Documents\Outside_IMU\LPMS-IG1W_UDP_Middleware\LPMS-IG1W_UDP_Middleware\main.cpp(618,55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  LPMS-IG1W_UDP_Middleware.vcxproj -> C:\Users\ephra\Documents\Outside_IMU\LPMS-IG1W_UDP_Middleware\x64\Debug\LPMS-IG1W_UDP_Middleware.exe
